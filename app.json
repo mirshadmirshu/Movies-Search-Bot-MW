@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Aadhi000/Movies-Search-Bot-MW",
-    "repository": "https://github.com/Aadhi000/Movies-Search-Bot-MW",
+    "repository": "https://github.com/mirshadmirshu/Movies-Search-Bot-MW.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
